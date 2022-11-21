@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8665370533932633184
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.81805325
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.9407061
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.633024
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669440414657326090, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4275554821335928721, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: animationSprites.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4275554821335928721, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: animationSprites.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 52c13850c3639a847ba0795a814cd129, type: 3}
+    - target: {fileID: 4275554821335928721, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: animationSprites.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: 482cf0fb5b885124cbaad74f7c12feba, type: 3}
+    - target: {fileID: 4675646356007130392, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 52c13850c3639a847ba0795a814cd129, type: 3}
+    - target: {fileID: 4675646356007130392, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6816847511085550996, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_Size.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6816847511085550996, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8772466811188325297, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
+      propertyPath: m_Name
+      value: Invader_3 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 40d79f1d1fee7374d924177342e746bb, type: 3}
